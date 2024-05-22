@@ -17,29 +17,36 @@ In this tutorial, we will create a resource group and create a storage account i
   <h2>Actions and Observations</h2>
 
 
- 1.) The first thing we are going to do is create a resource group so we can create our storage account. Once we have our resource group made we then want to make our first Storage Account. 
-
+ 1.) Our first task will be to create a resource group in order to create the storage account. After we have created our resource group, we will proceed to create the storage account.
 <p>
 
-Navigate to the resource page and create a resource group 
-<a href="https://imgur.com/Bv2JAay"><img src="https://i.imgur.com/Bv2JAayl.png" title="source: imgur.com" /></a>
+Navigate to the resource page and create a resource group
+
+![Screenshot 2024-05-21 200345](https://github.com/RalphgoldIT/Creating-A-StorageAccount/assets/170049429/65e1e170-5af1-42e6-8f89-b28775175d51)
 
 
-1.) Name the resource group and any associate tags you want to be placed on the resource group, then create.
-<a href="https://imgur.com/McId6bo"><img src="https://i.imgur.com/McId6bol.png" title="source: imgur.com" /></a>
+
+1.) You will need to name the resource group, along with any associated tags that you wish to include in the resource group, before creating it.
+
+![Screenshot 2024-05-21 193709](https://github.com/RalphgoldIT/Creating-A-StorageAccount/assets/170049429/d134dfab-d4a4-48d7-bdfa-fb132c0d99fe)
 
 
 2.) Create a storage account
    -Name Storage
    -review/create
-<a href="https://imgur.com/RjM5QiX"><img src="https://i.imgur.com/RjM5QiXl.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/XXHkvWB"><img src="https://i.imgur.com/XXHkvWBl.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/n1zDuik"><img src="https://i.imgur.com/n1zDuikl.png" title="source: imgur.com" /></a>
+   
+![Screenshot 2024-05-21 193946](https://github.com/RalphgoldIT/Creating-A-StorageAccount/assets/170049429/2da285d0-b85d-4f4d-90e3-3d6a83600806)
 
-3.) Ensure you are deleting resource groups as forgetting could cost you depending on the subscription you have.
+![Screenshot 2024-05-21 194306](https://github.com/RalphgoldIT/Creating-A-StorageAccount/assets/170049429/f5f94a2b-972a-4ded-8acf-c57949d4c61c)
+
+![Screenshot 2024-05-21 194632](https://github.com/RalphgoldIT/Creating-A-StorageAccount/assets/170049429/be86c411-a214-4891-a077-9084b1dd2d10)
 
 
-CONGRATULATIONS!!! You've learned how to create a resource group and a storage account within Azure.
+
+
+3.)The third step is to make sure you are deleting resource groups because forgetting to do so could result in you having to pay a fee depending on which subscription you are subscribed to. 
+
+Congratulations! You have learned how to create a storage account and a resource group with Azure.
 
 
 
